@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=LED_PROGECT_SCH Member=L?
+Added Component: Designator=L1(INDUCTOR E25/13/7)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component L1 1,6mH
+Added Room: Name=LED_PROGECT_SCH

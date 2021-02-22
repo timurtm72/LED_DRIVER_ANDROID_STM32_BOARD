@@ -1,0 +1,6 @@
+Added Component: Designator=C7(CAP ALUMINIUM 16 mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+ 400 V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C7 47uF 450 V
+Added Room: Name=LED_PROGECT_SCH

@@ -1,0 +1,7 @@
+Added Component: Designator=Q3(SOT32)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+16V Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component Q3 BUX87
+Added Room: Name=LED_PROGECT_SCH

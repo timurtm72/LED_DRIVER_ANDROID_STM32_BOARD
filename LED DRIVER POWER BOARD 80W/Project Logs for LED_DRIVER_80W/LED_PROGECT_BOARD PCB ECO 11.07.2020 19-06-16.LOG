@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=Q2 Old Footprint=DPAK New Footprint=TO220
+Change Component Comment : Designator=Q2 Old Comment=STF10NM50N New Comment=STF9NM50N
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D1 STPSC806D
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component R27 16
+Added Room: Name=LED_PROGECT_SCH

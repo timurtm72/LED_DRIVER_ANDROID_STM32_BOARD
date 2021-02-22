@@ -1,0 +1,14 @@
+Added Component: Designator=C7(CAP ALUMINIUM 16 mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+ 400 V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C7 47uF 450 V
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C14 ESMG451ELLR47MJC5S
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C15 220pF 63v
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C16 390pF 63v
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C17 390pF 63v
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D5 STPSC806D
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D6 STTH1L06A
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component J2 OUT LED
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component Q2 STF9NM50N
+Added Room: Name=LED_PROGECT_SCH

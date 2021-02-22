@@ -1,0 +1,9 @@
+Change Component Description : Designator=Q1 Old Description=N-channel 500 V, 0.73 ? typ., 5 A New Description=N-channel 500 V, 0.73 ? typ., 5 A
+Change Component Description : Designator=Q2 Old Description=N-channel 500 V, 0.73 ? typ., 5 A New Description=N-channel 500 V, 0.73 ? typ., 5 A
+Added Component: Designator=C7(CAP ALUMINIUM 16 mm 1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+ 400 V Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C7 47uF 450 V
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component T1 Trans E25/13/7
+Added Room: Name=LED_PROGECT_SCH

@@ -1,0 +1,43 @@
+Change Component Comment : Designator=RT? Old Comment=3A 10 Ohm New Comment=3 A 10 Ohm
+Added Component: Designator=C?(CAP32229)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(CAP32229)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F?(FUSE SMD)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Thru-Hole; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN-W2/E2.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J?(PIN3 TERMINAL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(RES1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(RES1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TR?(CHOKE IND)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=TR?-4
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=TR?-3
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetF?_1 Pin=F?-1
+Added Pin To Net: NetName=NetF?_1 Pin=J?-1
+Added Net: Name=NetF?_1
+Added Pin To Net: NetName=NetF?_2 Pin=F?-2
+Added Net: Name=NetF?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C? 0.22uF 305V
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C? 0.47uF 305V
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component F? 2 A 250 V
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component J? PIN 3 TERMINAL
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component R? 1 M
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component R? 1 M
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component TR? 2x22mH/1A
+Added Room: Name=LED_PROGECT_SCH

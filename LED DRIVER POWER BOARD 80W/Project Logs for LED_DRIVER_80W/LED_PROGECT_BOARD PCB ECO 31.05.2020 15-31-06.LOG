@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Added Component: Designator=C1(Capacitor radial)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(CAP32229)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC2_2
+Added Pin To Net: NetName=NetBR1_1 Pin=BR1-1
+Added Pin To Net: NetName=NetBR1_1 Pin=C4-2
+Added Net: Name=NetBR1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=J1-3
+Added Net: Name=NetC1_2
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C3 0.22uF 305V
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C4 0.22uF 305V
+Added Room: Name=LED_PROGECT_SCH

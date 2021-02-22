@@ -1,0 +1,19 @@
+Change Component Description : Designator=Q2 Old Description=N-channel 500 V, 0.63 ? typ., 57A New Description=N-channel 500 V, 0.63 ? typ., 57A
+Added Component: Designator=D5(TO220 DOIDE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q1(TO220)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q3(SOT32)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+400 V Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=+16V Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D5 STPSC806D
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component Q1 STP8NM50FP
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component Q3 BUX87
+Added Room: Name=LED_PROGECT_SCH

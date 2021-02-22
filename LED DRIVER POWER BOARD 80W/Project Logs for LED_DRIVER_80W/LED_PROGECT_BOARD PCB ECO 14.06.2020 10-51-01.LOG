@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=C15 NewDesignator=C17
+Change Component Designator: OldDesignator=C16 NewDesignator=C18
+Change Component Designator: OldDesignator=C17 NewDesignator=C19
+Change Component Designator: OldDesignator=C18 NewDesignator=C20
+Added Component: Designator=C15(CAP ALUM 5mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C16(Cap1206)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+16V Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=+16V Pin=C16-2
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC17_1
+Change Net Name : Old Net Name=NetC15_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetC20_2
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C19 390pF 63v
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C20 390pF 63v
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D5 STPSC806D
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D6 STTH1L06A
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component J2 OUT LED
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component Q2 STF9NM50N
+Added Room: Name=LED_PROGECT_SCH

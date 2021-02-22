@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=H2-1
+Removed Pin From Net: NetName=GND Pin=H2-1
+Removed Member From Class: ClassName=LED_PROGECT_SCH Member=H2
+Change Component Footprint: Designator=C17 Old Footprint=Cap1206 New Footprint=CAP0805
+Change Component Footprint: Designator=Q2 Old Footprint=TO220 New Footprint=DPAK
+Change Component Comment : Designator=C3 Old Comment=0.47uF 310 VAC New Comment=0.47uF 305VAC
+Change Component Comment : Designator=C14 Old Comment=ESMG451ELLR47MJC5S New Comment=0.47uF 450v
+Change Component Comment : Designator=Q2 Old Comment=STF9NM50N New Comment=STF10NM50N
+Added Room: Name=LED_PROGECT_SCH

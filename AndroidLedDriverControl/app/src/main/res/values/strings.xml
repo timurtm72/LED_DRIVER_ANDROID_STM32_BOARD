@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Светильник</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="level_control_sw">Контроль уровня</string>
+    <string name="lbl_btn_find_device">Поиск устройства</string>
+    <string name="lbl_btn_send">Запуск передачи</string>
+    <string name="lbl_btn_disconnect">Разъединиться</string>
+    <string name="lbl_btn_connect">Соединиться</string>
+    <string name="tvConnectStatusLbl">Статус соединения</string>
+    <string name="no_response_from_device">Нет ответа от устройства...</string>
+    <string name="connect_item">Соединиться</string>
+    <string name="disconnect_item">Разъединиться</string>
+    <string name="seach_device_item">Поиск устройства</string>
+    <string name="send_item">Запуск передачи</string>
+</resources>

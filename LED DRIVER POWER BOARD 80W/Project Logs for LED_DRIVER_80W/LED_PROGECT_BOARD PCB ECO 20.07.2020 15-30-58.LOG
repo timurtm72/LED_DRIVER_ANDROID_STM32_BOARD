@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=+400 V Pin=C14-1
+Removed Pin From Net: NetName=+400 V Pin=J2-1
+Removed Pin From Net: NetName=NetC14_2 Pin=J2-2
+Removed Pin From Net: NetName=+16V Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-3
+Change Component Description : Designator=Q1 Old Description=N-channel 500 V, 0.73 ? typ., 5 A New Description=N-channel 500 V, 0.73 ? typ., 5 A
+Change Component Description : Designator=Q2 Old Description=N-channel 500 V, 0.73 ? typ., 5 A New Description=N-channel 500 V, 0.73 ? typ., 5 A
+Added Pin To Net: NetName=NetC14_2 Pin=J2-1
+Added Pin To Net: NetName=+400 V Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=+16V Pin=J3-3
+Added Room: Name=LED_PROGECT_SCH

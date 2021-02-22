@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=BR1-3
+Removed Pin From Net: NetName=GND Pin=C3-1
+Added Component: Designator=C5(CAP ALUM 5mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(Cap1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(SOD123)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(SOD123)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetBR1_3 Pin=BR1-3
+Added Pin To Net: NetName=NetBR1_3 Pin=C3-1
+Added Pin To Net: NetName=NetBR1_3 Pin=C5-1
+Added Pin To Net: NetName=NetBR1_3 Pin=C6-1
+Added Pin To Net: NetName=NetBR1_3 Pin=R7-1
+Added Net: Name=NetBR1_3
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=C6-2
+Added Pin To Net: NetName=NetC5_2 Pin=D2-2
+Added Pin To Net: NetName=NetC5_2 Pin=R6-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C5 10uF 35 V
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component C6 0.1uF 63V
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D1 1N4148
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D2 1N4148
+Added Room: Name=LED_PROGECT_SCH

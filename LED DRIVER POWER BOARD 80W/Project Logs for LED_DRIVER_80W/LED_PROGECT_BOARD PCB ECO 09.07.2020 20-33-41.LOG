@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C14 Old Footprint=Cap aluminium 12.5x5 New Footprint=CAP ALUMINIUM 16 mm 1
+Change Component Comment : Designator=C14 Old Comment=0.47uF 450v New Comment=47uF 450 V
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D2 1N4148
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D6 1N4148
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component R10 16
+Added Room: Name=LED_PROGECT_SCH

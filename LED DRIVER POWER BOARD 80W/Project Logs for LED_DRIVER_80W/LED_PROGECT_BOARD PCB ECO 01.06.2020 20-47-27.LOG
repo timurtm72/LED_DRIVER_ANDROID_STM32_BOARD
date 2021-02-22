@@ -1,0 +1,35 @@
+Added Component: Designator=Q?(TO220)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R12(RES1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(RES1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(RES1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R15(RES1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R16(RES1206)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetBR1_3 Pin=R14-1
+Added Pin To Net: NetName=NetBR1_3 Pin=R15-1
+Added Pin To Net: NetName=NetBR1_3 Pin=R16-1
+Added Pin To Net: NetName=NetIC1_7 Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_7 Pin=R12-1
+Added Net: Name=NetIC1_7
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=R12-2
+Added Pin To Net: NetName=NetQ?_1 Pin=R13-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=R13-1
+Added Pin To Net: NetName=NetQ?_3 Pin=R14-2
+Added Pin To Net: NetName=NetQ?_3 Pin=R15-2
+Added Pin To Net: NetName=NetQ?_3 Pin=R16-2
+Added Net: Name=NetQ?_3
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component Q? STP8NM50FP
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component R12 33
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component R13 47k
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component R14 1
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component R15 1
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component R16 1
+Added Room: Name=LED_PROGECT_SCH

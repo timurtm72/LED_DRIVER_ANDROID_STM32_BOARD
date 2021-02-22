@@ -1,0 +1,8 @@
+Added Component: Designator=TR1(CHOKE IND)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC3_2 Pin=TR1-1
+Added Pin To Net: NetName=NetC3_1 Pin=TR1-2
+Added Pin To Net: NetName=NetBR1_4 Pin=TR1-3
+Added Pin To Net: NetName=NetBR1_2 Pin=TR1-4
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component TR1 2x22mH/1A
+Added Room: Name=LED_PROGECT_SCH

@@ -1,0 +1,7 @@
+Change Component Description : Designator=Q1 Old Description=N-channel 500 V, 0.73 ? typ., 5 A New Description=N-channel 500 V, 0.73 ? typ., 5 A
+Change Component Description : Designator=Q2 Old Description=N-channel 500 V, 0.73 ? typ., 5 A New Description=N-channel 500 V, 0.73 ? typ., 5 A
+Added Pin To Net: NetName=+400 V Pin=C7-1
+Added Pin To Net: NetName=+400 V Pin=D1-1
+Added Pin To Net: NetName=+400 V Pin=D2-2
+Added Pin To Net: NetName=+400 V Pin=R3-2
+Added Room: Name=LED_PROGECT_SCH

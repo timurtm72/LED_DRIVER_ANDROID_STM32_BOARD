@@ -1,0 +1,76 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D8
+Change Component Designator: OldDesignator=D7 NewDesignator=D9
+Change Component Designator: OldDesignator=D8 NewDesignator=D11
+Change Component Designator: OldDesignator=D9 NewDesignator=D12
+Change Component Designator: OldDesignator=D10 NewDesignator=D13
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R27 NewDesignator=R28
+Change Component Designator: OldDesignator=R28 NewDesignator=R29
+Change Component Designator: OldDesignator=R29 NewDesignator=R30
+Change Component Designator: OldDesignator=R30 NewDesignator=R31
+Change Component Designator: OldDesignator=R31 NewDesignator=R32
+Change Component Designator: OldDesignator=R32 NewDesignator=R33
+Change Component Designator: OldDesignator=R33 NewDesignator=R34
+Change Component Designator: OldDesignator=R34 NewDesignator=R35
+Change Component Designator: OldDesignator=R35 NewDesignator=R36
+Change Component Designator: OldDesignator=R36 NewDesignator=R37
+Change Component Designator: OldDesignator=R37 NewDesignator=R38
+Change Component Designator: OldDesignator=R38 NewDesignator=R39
+Change Component Designator: OldDesignator=R39 NewDesignator=R40
+Change Component Designator: OldDesignator=R40 NewDesignator=R41
+Change Component Designator: OldDesignator=R41 NewDesignator=R42
+Change Component Designator: OldDesignator=R42 NewDesignator=R43
+Change Component Description : Designator=Q2 Old Description=N-channel 500 V, 0.63 ? typ., 57A New Description=N-channel 500 V, 0.63 ? typ., 57A
+Change Component Description : Designator=Q1 Old Description=N-channel 500 V, 0.73 ? typ., 5 A New Description=N-channel 500 V, 0.73 ? typ., 5 A
+Added Component: Designator=D1(TO220 DOIDE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(SOD123)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D10(SOD123)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D14(SOD123)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(HEATSINK)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R27(RES1206)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+ 400 V Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D7-1
+Added Pin To Net: NetName=NetD2_1 Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D14-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=GND Pin=H2-1
+Added Pin To Net: NetName=+400 V Pin=R24-2
+Added Pin To Net: NetName=+400 V Pin=R25-2
+Added Pin To Net: NetName=NetD9_1 Pin=R27-1
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD9_2
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD12_1
+Change Net Name : Old Net Name=NetD10_1 New Net Name=NetD13_1
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR28_1
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetR36_2
+Change Net Name : Old Net Name=NetR36_2 New Net Name=NetR37_2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=R27-2
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=Z Pin=D10-1
+Added Pin To Net: NetName=Z Pin=D14-2
+Added Pin To Net: NetName=Z Pin=Q2-1
+Added Pin To Net: NetName=Z Pin=R30-1
+Added Net: Name=Z
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D11 STTH1L06A
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D12 1N4148
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D13 1N4148
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component D14 1N4148
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component H2 HEATSINK
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component R43 3.9k

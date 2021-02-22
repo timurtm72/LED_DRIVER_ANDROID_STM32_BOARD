@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC6_2 Pin=BR1-1
+Change Net Name : Old Net Name=NetC6_2 New Net Name=NetBR1_1
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component TR1 2x22mH/1A
+Added Room: Name=LED_PROGECT_SCH

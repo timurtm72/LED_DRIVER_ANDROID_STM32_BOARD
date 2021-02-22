@@ -1,0 +1,19 @@
+Change Component Description : Designator=Q? Old Description=N-channel 500 V, 0.73 ? typ., 5 A New Description=N-channel 500 V, 0.73 ? typ., 5 A
+Added Component: Designator=T1(TRANS E25/13/7)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Transformer; 5 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TRF_5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ?_3 Pin=IC1-4
+Added Pin To Net: NetName=NetR8_1 Pin=T1-1
+Added Pin To Net: NetName=NetBR1_3 Pin=T1-5
+Added Pin To Net: NetName=NetC3_2 Pin=T1-6
+Change Net Name : Old Net Name=NetQ?_3 New Net Name=NetIC1_4
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=T1-10
+Added Net: Name=NetQ?_2
+Added Member To Class: ClassName=LED_PROGECT_SCH Member=Component T1 Trans E25/13/7
+Added Room: Name=LED_PROGECT_SCH
